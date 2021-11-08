@@ -1,7 +1,7 @@
 # flutter_starter_project
 
-A starter Flutter project.
-Include Packages [http,getX,getStorage]
+A starter flutter project.
+Include packages [http,getX,getStorage]
 
 ## Getting Started
 
