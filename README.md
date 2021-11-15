@@ -3,6 +3,8 @@
 A starter flutter project.
 Include packages [http,getX,getStorage]
 
+Have a Question or an Idea for this project? Join Our Disscord Community: https://discord.gg/p7GeJApW
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
