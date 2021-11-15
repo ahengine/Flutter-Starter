@@ -3,7 +3,7 @@
 A starter flutter project.
 Include packages [http,getX,getStorage]
 
-Have a Question or an Idea for this project? Join Our Disscord Community: https://discord.gg/p7GeJApW
+Have a Question or an Idea for this project? Join Our Disscord Community: https://discord.gg/M7aM8Cq3
 
 ## Getting Started
 
